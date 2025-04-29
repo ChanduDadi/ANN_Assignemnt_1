@@ -1,4 +1,4 @@
-
+This repository implements basic artificial neural network components (Linear and ReLU layers) from scratch using **PyTorch**, without relying on `torch.nn`. It focuses on manually coding forward and backward passes for learning and understanding the fundamentals of neural networks.
 Assignment 1
 =============
 
